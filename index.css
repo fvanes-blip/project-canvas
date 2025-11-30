@@ -1,0 +1,7 @@
+/* We maken dit bestand leeg zodat de standaard styling niet stoort */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9fafb; /* Lichte achtergrond */
+  font-family: system-ui, -apple-system, sans-serif;
+}
